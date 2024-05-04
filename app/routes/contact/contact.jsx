@@ -44,11 +44,7 @@ export async function action({ context, request }) {
   const email = String(formData.get('email'));
   const message = String(formData.get('message'));
   const errors = {};
-
-  // Return without sending if a bot trips the honeypot
   if (isBot) return json({ success: true });
-
-  // Handle input validation on the server
   if (!email || !EMAIL_PATTERN.test(email)) {
     errors.email = 'Please enter a valid email address.';
   }
@@ -69,7 +65,6 @@ export async function action({ context, request }) {
     return json({ errors });
   }
 
-  // Send email via Amazon SES
   await ses.send(
     new SendEmailCommand({
       Destination: {
