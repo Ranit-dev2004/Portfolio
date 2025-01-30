@@ -1,0 +1,1 @@
+import{u as o,j as t}from"./entry.client-g4LGL3oA.js";import{E as e}from"./error-D6Xp9GR4.js";import"./button-C1QwbVqQ.js";import"./heading-CxbOS-bD.js";import"./decoder-text-BkZG1iDY.js";import"./image-C37Vwfgw.js";const a=()=>[{title:"404 | Redacted"}];function E(){const r=o();return t.jsx(e,{error:r})}export{E as ErrorBoundary,a as meta};

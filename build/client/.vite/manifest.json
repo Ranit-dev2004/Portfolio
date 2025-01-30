@@ -1,0 +1,436 @@
+{
+  "_button-!~{00b}~.js": {
+    "file": "assets/button-8e9-ZgA5.css",
+    "src": "_button-!~{00b}~.js"
+  },
+  "_button-C1QwbVqQ.js": {
+    "file": "assets/button-C1QwbVqQ.js",
+    "name": "button",
+    "imports": [
+      "_heading-CxbOS-bD.js",
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx"
+    ],
+    "css": [
+      "assets/button-8e9-ZgA5.css"
+    ]
+  },
+  "_config-BOA3yL5D.js": {
+    "file": "assets/config-BOA3yL5D.js",
+    "name": "config"
+  },
+  "_decoder-text-!~{00d}~.js": {
+    "file": "assets/decoder-text-ZXA-E-72.css",
+    "src": "_decoder-text-!~{00d}~.js"
+  },
+  "_decoder-text-BkZG1iDY.js": {
+    "file": "assets/decoder-text-BkZG1iDY.js",
+    "name": "decoder-text",
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_heading-CxbOS-bD.js"
+    ],
+    "css": [
+      "assets/decoder-text-ZXA-E-72.css"
+    ]
+  },
+  "_divider-!~{00g}~.js": {
+    "file": "assets/divider-CF0E-Th3.css",
+    "src": "_divider-!~{00g}~.js"
+  },
+  "_divider-ByaUN37T.js": {
+    "file": "assets/divider-ByaUN37T.js",
+    "name": "divider",
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_heading-CxbOS-bD.js"
+    ],
+    "css": [
+      "assets/divider-CF0E-Th3.css"
+    ]
+  },
+  "_error-!~{00a}~.js": {
+    "file": "assets/error-DPHcMW5F.css",
+    "src": "_error-!~{00a}~.js"
+  },
+  "_error-D6Xp9GR4.js": {
+    "file": "assets/error-D6Xp9GR4.js",
+    "name": "error",
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_button-C1QwbVqQ.js",
+      "_decoder-text-BkZG1iDY.js",
+      "_heading-CxbOS-bD.js",
+      "_image-C37Vwfgw.js"
+    ],
+    "css": [
+      "assets/error-DPHcMW5F.css"
+    ],
+    "assets": [
+      "assets/notfound-Cfa33_DP.mp4",
+      "assets/flatline-DaiGY3H4.mp4"
+    ]
+  },
+  "_heading-!~{00c}~.js": {
+    "file": "assets/heading-QNhDtOdu.css",
+    "src": "_heading-!~{00c}~.js"
+  },
+  "_heading-CxbOS-bD.js": {
+    "file": "assets/heading-CxbOS-bD.js",
+    "name": "heading",
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx"
+    ],
+    "css": [
+      "assets/heading-QNhDtOdu.css"
+    ]
+  },
+  "_image-!~{00e}~.js": {
+    "file": "assets/image-C8yHtTnE.css",
+    "src": "_image-!~{00e}~.js"
+  },
+  "_image-C37Vwfgw.js": {
+    "file": "assets/image-C37Vwfgw.js",
+    "name": "image",
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_button-C1QwbVqQ.js",
+      "_heading-CxbOS-bD.js"
+    ],
+    "css": [
+      "assets/image-C8yHtTnE.css"
+    ],
+    "assets": [
+      "assets/gotham-bold-italic-C_msAlmW.woff2",
+      "assets/gotham-bold-D1kvQ7KV.woff2",
+      "assets/gotham-book-italic-Bm2IEtSK.woff2",
+      "assets/gotham-book-Bnaws0Ef.woff2",
+      "assets/gotham-medium-italic-Dok430ou.woff2",
+      "assets/gotham-medium-0VT3RO8I.woff2",
+      "assets/ipa-gothic-DimHCOud.woff2"
+    ]
+  },
+  "_meta-!~{00l}~.js": {
+    "file": "assets/meta-CQY7Fxju.css",
+    "src": "_meta-!~{00l}~.js"
+  },
+  "_meta-BdIzV3m_.js": {
+    "file": "assets/meta-BdIzV3m_.js",
+    "name": "meta",
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_heading-CxbOS-bD.js",
+      "_config-BOA3yL5D.js"
+    ],
+    "css": [
+      "assets/meta-CQY7Fxju.css"
+    ]
+  },
+  "_route-!~{00k}~.js": {
+    "file": "assets/route-D224xdNa.css",
+    "src": "_route-!~{00k}~.js"
+  },
+  "_route-Cks6zTtg.js": {
+    "file": "assets/route-Cks6zTtg.js",
+    "name": "route",
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_meta-BdIzV3m_.js",
+      "_decoder-text-BkZG1iDY.js",
+      "_heading-CxbOS-bD.js",
+      "_section-B32nzvjX.js",
+      "_image-C37Vwfgw.js",
+      "_button-C1QwbVqQ.js",
+      "_useWindowSize-BiKi-vjD.js",
+      "_config-BOA3yL5D.js",
+      "_divider-ByaUN37T.js"
+    ],
+    "dynamicImports": [
+      "app/routes/home/displacement-sphere.jsx",
+      "app/components/model/index.js"
+    ],
+    "css": [
+      "assets/route-D224xdNa.css"
+    ],
+    "assets": [
+      "assets/slice-app-large-CHKPTcWm.jpg",
+      "assets/slice-app-nBJdQ9Pt.jpg",
+      "assets/middel-C0cFScbj.jpg",
+      "assets/spr-lesson-builder-dark-large-DZ47e5rw.jpg",
+      "assets/spr-lesson-builder-dark-BONkMJlN.jpg",
+      "assets/profileLarge-C2nmSxG4.jpg",
+      "assets/profile-placeholder-DOgU6wR2.jpg",
+      "assets/profile-BxnVHk7a.jpg",
+      "assets/iphone-11-DGIHa_Ph.glb",
+      "assets/macbook-pro-DZn-FKKF.glb"
+    ]
+  },
+  "_section-!~{00f}~.js": {
+    "file": "assets/section-6B3c3zev.css",
+    "src": "_section-!~{00f}~.js"
+  },
+  "_section-B32nzvjX.js": {
+    "file": "assets/section-B32nzvjX.js",
+    "name": "section",
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_heading-CxbOS-bD.js"
+    ],
+    "css": [
+      "assets/section-6B3c3zev.css"
+    ]
+  },
+  "_three-Cv03_sgO.js": {
+    "file": "assets/three-Cv03_sgO.js",
+    "name": "three",
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx"
+    ]
+  },
+  "_useWindowSize-BiKi-vjD.js": {
+    "file": "assets/useWindowSize-BiKi-vjD.js",
+    "name": "useWindowSize",
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx"
+    ]
+  },
+  "app/assets/flatline.mp4": {
+    "file": "assets/flatline-DaiGY3H4.mp4",
+    "src": "app/assets/flatline.mp4"
+  },
+  "app/assets/fonts/gotham-bold-italic.woff2": {
+    "file": "assets/gotham-bold-italic-C_msAlmW.woff2",
+    "src": "app/assets/fonts/gotham-bold-italic.woff2"
+  },
+  "app/assets/fonts/gotham-bold.woff2": {
+    "file": "assets/gotham-bold-D1kvQ7KV.woff2",
+    "src": "app/assets/fonts/gotham-bold.woff2"
+  },
+  "app/assets/fonts/gotham-book-italic.woff2": {
+    "file": "assets/gotham-book-italic-Bm2IEtSK.woff2",
+    "src": "app/assets/fonts/gotham-book-italic.woff2"
+  },
+  "app/assets/fonts/gotham-book.woff2": {
+    "file": "assets/gotham-book-Bnaws0Ef.woff2",
+    "src": "app/assets/fonts/gotham-book.woff2"
+  },
+  "app/assets/fonts/gotham-medium-italic.woff2": {
+    "file": "assets/gotham-medium-italic-Dok430ou.woff2",
+    "src": "app/assets/fonts/gotham-medium-italic.woff2"
+  },
+  "app/assets/fonts/gotham-medium.woff2": {
+    "file": "assets/gotham-medium-0VT3RO8I.woff2",
+    "src": "app/assets/fonts/gotham-medium.woff2"
+  },
+  "app/assets/fonts/ipa-gothic.woff2": {
+    "file": "assets/ipa-gothic-DimHCOud.woff2",
+    "src": "app/assets/fonts/ipa-gothic.woff2"
+  },
+  "app/assets/iphone-11.glb": {
+    "file": "assets/iphone-11-DGIHa_Ph.glb",
+    "src": "app/assets/iphone-11.glb"
+  },
+  "app/assets/macbook-pro.glb": {
+    "file": "assets/macbook-pro-DZn-FKKF.glb",
+    "src": "app/assets/macbook-pro.glb"
+  },
+  "app/assets/middel.jpg": {
+    "file": "assets/middel-C0cFScbj.jpg",
+    "src": "app/assets/middel.jpg"
+  },
+  "app/assets/notfound.mp4": {
+    "file": "assets/notfound-Cfa33_DP.mp4",
+    "src": "app/assets/notfound.mp4"
+  },
+  "app/assets/profile-placeholder.jpg": {
+    "file": "assets/profile-placeholder-DOgU6wR2.jpg",
+    "src": "app/assets/profile-placeholder.jpg"
+  },
+  "app/assets/profile.jpg": {
+    "file": "assets/profile-BxnVHk7a.jpg",
+    "src": "app/assets/profile.jpg"
+  },
+  "app/assets/profileLarge.jpg": {
+    "file": "assets/profileLarge-C2nmSxG4.jpg",
+    "src": "app/assets/profileLarge.jpg"
+  },
+  "app/assets/slice-app-large.jpg": {
+    "file": "assets/slice-app-large-CHKPTcWm.jpg",
+    "src": "app/assets/slice-app-large.jpg"
+  },
+  "app/assets/slice-app.jpg": {
+    "file": "assets/slice-app-nBJdQ9Pt.jpg",
+    "src": "app/assets/slice-app.jpg"
+  },
+  "app/assets/spr-lesson-builder-dark-large.jpg": {
+    "file": "assets/spr-lesson-builder-dark-large-DZ47e5rw.jpg",
+    "src": "app/assets/spr-lesson-builder-dark-large.jpg"
+  },
+  "app/assets/spr-lesson-builder-dark.jpg": {
+    "file": "assets/spr-lesson-builder-dark-BONkMJlN.jpg",
+    "src": "app/assets/spr-lesson-builder-dark.jpg"
+  },
+  "app/assets/uses-background.mp4": {
+    "file": "assets/uses-background-DVBwh5G1.mp4",
+    "src": "app/assets/uses-background.mp4"
+  },
+  "app/components/model/index.js": {
+    "file": "assets/index-DqdaJTdq.js",
+    "name": "index",
+    "src": "app/components/model/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_image-C37Vwfgw.js",
+      "_heading-CxbOS-bD.js",
+      "_three-Cv03_sgO.js",
+      "_route-Cks6zTtg.js",
+      "_button-C1QwbVqQ.js",
+      "_meta-BdIzV3m_.js",
+      "_config-BOA3yL5D.js",
+      "_decoder-text-BkZG1iDY.js",
+      "_section-B32nzvjX.js",
+      "_useWindowSize-BiKi-vjD.js",
+      "_divider-ByaUN37T.js"
+    ],
+    "css": [
+      "assets/index-Ch5kCoyl.css"
+    ]
+  },
+  "app/root.jsx?client-route=1": {
+    "file": "assets/root-C-BzDNqR.js",
+    "name": "root",
+    "src": "app/root.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_image-C37Vwfgw.js",
+      "_error-D6Xp9GR4.js",
+      "_decoder-text-BkZG1iDY.js",
+      "_button-C1QwbVqQ.js",
+      "_heading-CxbOS-bD.js",
+      "_useWindowSize-BiKi-vjD.js",
+      "_config-BOA3yL5D.js"
+    ],
+    "css": [
+      "assets/root-CIQR60wz.css"
+    ]
+  },
+  "app/routes/$.jsx?client-route=1": {
+    "file": "assets/_-BLHHgCWq.js",
+    "name": "_",
+    "src": "app/routes/$.jsx?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_error-D6Xp9GR4.js",
+      "_button-C1QwbVqQ.js",
+      "_heading-CxbOS-bD.js",
+      "_decoder-text-BkZG1iDY.js",
+      "_image-C37Vwfgw.js"
+    ]
+  },
+  "app/routes/api.set-theme.js?client-route=1": {
+    "file": "assets/api.set-theme-l0sNRNKZ.js",
+    "name": "api.set-theme",
+    "src": "app/routes/api.set-theme.js?client-route=1",
+    "isEntry": true
+  },
+  "app/routes/contact/route.js?client-route=1": {
+    "file": "assets/route-ArDfMtSl.js",
+    "name": "route",
+    "src": "app/routes/contact/route.js?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_button-C1QwbVqQ.js",
+      "_decoder-text-BkZG1iDY.js",
+      "_divider-ByaUN37T.js",
+      "_meta-BdIzV3m_.js",
+      "_heading-CxbOS-bD.js",
+      "_section-B32nzvjX.js",
+      "_config-BOA3yL5D.js"
+    ],
+    "css": [
+      "assets/route-BmU5AfG1.css"
+    ]
+  },
+  "app/routes/home/displacement-sphere.jsx": {
+    "file": "assets/displacement-sphere-DObE-adn.js",
+    "name": "displacement-sphere",
+    "src": "app/routes/home/displacement-sphere.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_image-C37Vwfgw.js",
+      "_heading-CxbOS-bD.js",
+      "_useWindowSize-BiKi-vjD.js",
+      "_three-Cv03_sgO.js",
+      "_button-C1QwbVqQ.js"
+    ],
+    "css": [
+      "assets/displacement-sphere-DC4DhVc-.css"
+    ]
+  },
+  "app/routes/home/route.js?client-route=1": {
+    "file": "assets/route-BFAmJlgq.js",
+    "name": "route",
+    "src": "app/routes/home/route.js?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "_route-Cks6zTtg.js",
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_meta-BdIzV3m_.js",
+      "_heading-CxbOS-bD.js",
+      "_config-BOA3yL5D.js",
+      "_decoder-text-BkZG1iDY.js",
+      "_section-B32nzvjX.js",
+      "_image-C37Vwfgw.js",
+      "_button-C1QwbVqQ.js",
+      "_useWindowSize-BiKi-vjD.js",
+      "_divider-ByaUN37T.js"
+    ]
+  },
+  "app/routes/skills/route.js?client-route=1": {
+    "file": "assets/route-Cw39n75c.js",
+    "name": "route",
+    "src": "app/routes/skills/route.js?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_decoder-text-BkZG1iDY.js",
+      "_heading-CxbOS-bD.js",
+      "_section-B32nzvjX.js",
+      "_divider-ByaUN37T.js"
+    ],
+    "css": [
+      "assets/route-2jcTte3j.css"
+    ]
+  },
+  "app/routes/uses/route.js?client-route=1": {
+    "file": "assets/route-BYaTI7Nd.js",
+    "name": "route",
+    "src": "app/routes/uses/route.js?client-route=1",
+    "isEntry": true,
+    "imports": [
+      "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+      "_meta-BdIzV3m_.js",
+      "_heading-CxbOS-bD.js",
+      "_button-C1QwbVqQ.js",
+      "_image-C37Vwfgw.js",
+      "_section-B32nzvjX.js",
+      "_config-BOA3yL5D.js"
+    ],
+    "css": [
+      "assets/route-CBoKRJAI.css"
+    ],
+    "assets": [
+      "assets/uses-background-DVBwh5G1.mp4"
+    ]
+  },
+  "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx": {
+    "file": "assets/entry.client-g4LGL3oA.js",
+    "name": "entry.client",
+    "src": "node_modules/@remix-run/dev/dist/config/defaults/entry.client.tsx",
+    "isEntry": true
+  }
+}
